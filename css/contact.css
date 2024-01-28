@@ -1,0 +1,43 @@
+.contact-form_inside{
+    width: 100%;
+    height: 100%;
+    background-color: #3333331A;
+}
+.contact-form_inside label{
+    color: #32343e;
+    font-size: 1.6rem;
+    font-weight: 350;
+}
+.contact-form_inside form{
+    width: 100%;
+    padding: 2rem;
+}
+input[type=submit]{
+    background-color: #333333;
+    color: white;
+    font-size: x-large;
+    padding: 0.3rem;
+    margin-top: 1rem;
+    border-radius: 0.4rem;
+    width: 100%;
+}
+input[type], textarea{
+    border-color: #333333;
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.row.col-md-6.icons-item{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.155);
+
+}
+.icons-item{
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    font-size:  1.3rem
+}
+.contact__map{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    
+}
