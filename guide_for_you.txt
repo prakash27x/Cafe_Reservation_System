@@ -4,6 +4,6 @@
 4. Now You can experience this web app
 
 ** Language Used in this project:
-HTML, CSS, Bootstrap, MySQL, PHP
+HTML, CSS, JS, Bootstrap, MySQL, PHP
 
 ** I've provided my Mid_term Report as well as final defence report;
