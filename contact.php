@@ -25,7 +25,7 @@ $conn->close();
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&display=swap">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/9b6401d2ee.js" crossorigin="anonymous"></script>
     <link href="css/index.css"rel="stylesheet" type="text/css">
@@ -149,7 +149,7 @@ $conn->close();
                 <div class="col-md-4" id="footer_head_item">
                     <h5>Contact Us</h5>
                     <p>Phone: 980-9744015</p>
-                    <p>Email: info@cafeReserveHub.com.np</p>
+                    <p>Email: info@crb.com.np</p>
                 </div>
             </div>
             <hr class="dark-hr" id="dark-hr">

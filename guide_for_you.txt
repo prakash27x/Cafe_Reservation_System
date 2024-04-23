@@ -1,0 +1,9 @@
+1. Download this repository in your local computer
+2. open xampp and import cs1_6 sql file (confirm that table name is cs1.6 )
+3. Import all code on your IDE
+4. Now You can experience this web app
+
+** Language Used in this project:
+HTML, CSS, Bootstrap, MySQL, PHP
+
+** I've provided my Mid_term Report as well as final defence report;

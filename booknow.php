@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&display=swap">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="css/index.css" rel="stylesheet" type="text/css">
@@ -138,17 +139,17 @@
         <div class="col-md-4" id="notice" style=" border: 1px solid #b3890b; box-shadow: 0 4px 8px rgba(0, 0, 0.2, 0.1); padding: 1rem; border-width:50%">
             <h5 style="color: white;">**Booking Information:**</h5>
             <p>
-                1. **Payment Method:** <br>
+                1. Payment Method: <br>
                 - Pay Rs.50 per table through Esewa, Imepay, or Khalti. <br>
                 - Enter your transaction code in the "Message" section.
             </p>
             <p>
-                2. **Booking Duration:** <br>
-                - Reservation valid for 1 hour from the booking time. <br>
-                - Late arrivals may result in automatic cancellation.
+                2. Booking Duration: <br>
+                 - Reservation valid for 1 hour from the booking time. <br>
+                 - Late arrivals may result in automatic cancellation.
             </p>
             <p>
-                3. **Refund Policy:** <br>
+                3. Refund Policy: <br>
                 - No refunds after payment.
             </p>
             <p>
@@ -166,6 +167,7 @@
                #notice p{
                     /* color: white; */
                     color: black;
+                    font-family: Barlow;
                 }
             </style>
         </div>
